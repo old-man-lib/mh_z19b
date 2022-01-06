@@ -11,7 +11,7 @@ Download and install the libraries to use them in Python.
 `pip3 install -r requirements.txt`
 
 ## How to use
-```
+```python
 import mh_z19b
 
 print("CO2:", mh_z19b.read())
