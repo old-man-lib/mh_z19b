@@ -40,7 +40,7 @@ Download and install the libraries to use them in Python.
 
 8) The Raspberry Pi will reboot and the interface will be enabled.
 
-#### Step 2 - Import Library
+#### Step 2 - Import Library and Use
 ```python
 import mh_z19b
 
