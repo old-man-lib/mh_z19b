@@ -5,7 +5,7 @@ Library for work with mh-z19 CO2 senser.
 Download and install the libraries to use them in Python.
 
 ### For Python:
-__pip install -r requirements.txt__
+`pip install -r requirements.txt`
 
 ### For Python3:
-__pip3 install -r requirements.txt__
+`pip3 install -r requirements.txt`
