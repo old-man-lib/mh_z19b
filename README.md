@@ -9,3 +9,10 @@ Download and install the libraries to use them in Python.
 
 #### For Python3:
 `pip3 install -r requirements.txt`
+
+## How to use
+`
+import mh_z19b
+
+print("CO2:", mh_z19b.read())
+`
