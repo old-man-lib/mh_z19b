@@ -42,7 +42,9 @@ Download and install the libraries to use them in Python.
 
 #### Step 2 - Import Library and Use
 ```python
-import mh_z19b
+import mh_z19b, time
 
-print("CO2:", mh_z19b.read())
+while True:
+  print("CO2:", mh_z19b.read())
+  time.sleep(1)
 ```
